@@ -1,0 +1,11 @@
+html{background:antiquewhite;}
+body{
+    background: white;
+    width: 1210px;
+    height: 350px;
+    margin:0 auto;
+    table, th, td {
+        border: 1px solid black;
+        border-collapse: collapse;
+      }
+}
